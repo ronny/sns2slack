@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/mux"
-	"github.com/hgfischer/sns2slack/slack"
-	"github.com/hgfischer/sns2slack/sns"
+	"github.com/ronny/sns2slack/slack"
+	"github.com/ronny/sns2slack/sns"
 	"net/http"
 )
 
